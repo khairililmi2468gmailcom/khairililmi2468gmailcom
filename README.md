@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.angon.co.id/wp-content/uploads/2023/10/1686539179.png" alt="laravel"/> 
+    <img src="https://www.angon.co.id/wp-content/uploads/2023/10/1686539179.png" alt="laravel" width="50" height="30"/> 
   </a>  
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
